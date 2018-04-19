@@ -79,7 +79,7 @@ class EggTimer {
         elapsedTime = 0
         
         timerAction()
-        var me = "me"
+
         
     }
     
